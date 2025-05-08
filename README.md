@@ -6,15 +6,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xjapn03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjapn03&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150"" alt="xjapn03" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xjapn03&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150"" alt="xjapn03" /></p>
 </div>
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" alt="Spotify recently played"  />
   </a>
-  <img align="right" height="140" src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif"  />
+  <img align="right" height="145" src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif"  />
 </div>
 
 <br clear="both">

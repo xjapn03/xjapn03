@@ -14,13 +14,10 @@
   <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" alt="Spotify recently played"  />
   </a>
+  <img align="right" height="140" src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif"  />
 </div>
 
-###
-
 <br clear="both">
-
-<img align="right" height="140" src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif"  />
 
 ###
 
@@ -60,12 +57,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=xjapn03&theme=discord&column=8&row=1&margin-w=0&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###

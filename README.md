@@ -5,9 +5,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xjapn03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjapn03&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150"" alt="xjapn03" /></p>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=xjapn03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  </span>
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjapn03&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="xjapn03" />
+  </span>
 </div>
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">

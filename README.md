@@ -3,15 +3,16 @@
 ###
 
 <br clear="both">
-
 <div align="center">
-  <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy" style="display: inline-block; vertical-align: middle;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" alt="Spotify recently played" />
-  </a>
-  <img src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif" height="145" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xjapn03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjapn03&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150"" alt="xjapn03" /></p>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=xjapn03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  </span>
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjapn03&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="xjapn03" />
+  </span>
 </div>
-
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">

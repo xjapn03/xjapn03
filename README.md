@@ -15,11 +15,12 @@
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy" style="display: inline-block; vertical-align: middle;">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" alt="Spotify recently played" />
   </a>
-  <img align="right" height="145" src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif"  />
+  <img src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif" height="145" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
 </div>
+
 
 <br clear="both">
 

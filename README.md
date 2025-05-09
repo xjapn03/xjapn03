@@ -81,7 +81,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://fontmeme.com/temporary/88e9003940f2e3bd002f2bd2cba01be5.png" alt="tagcito" width="200"/>
+    <img src="https://fontmeme.com/permalink/250509/9adb64124ac063f413f64ec5949e18eb.png" alt="tagcito" width="200"/>
   </p>
 </div> 
 

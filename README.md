@@ -1,4 +1,4 @@
-<h3 align="center">I'm Juan, Backend dev from Colombia  🇨🇴</h3>
+<h3 align="center">Hey, I'm Juan 🇨🇴</h3>
 
 ###
 
@@ -20,9 +20,6 @@
   </a>
   <img src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif" height="160" style="margin-left: 10px;" />
 </p>
-
-
-
 
 <br clear="both">
 
@@ -70,7 +67,7 @@
   <a href="https://www.linkedin.com target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/xjapn03/" target="_blank">
+  <a href="https://www.instagram.com/xjapn_03/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
   <a href="https://gitlab.com/" target="_blank">

@@ -56,9 +56,6 @@
   <img width="12" />
 </div>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="mailto:juanesmako3707@gmail.com" target="_blank">
@@ -80,7 +77,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://fontmeme.com/temporary/63790207fda602c0b572cece7e039749.png" alt="tagcito" width="300"/>
+    <img src="https://fontmeme.com/temporary/88e9003940f2e3bd002f2bd2cba01be5.png" alt="tagcito" width="300"/>
   </p>
 </div> 
 

@@ -4,15 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=xjapn03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xjapn03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="xjapn03" />
-  </span>
-</div>
-
 
 <p align="center">
   <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">

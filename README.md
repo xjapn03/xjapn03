@@ -7,9 +7,16 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/22rf7l7l6gjvybm4x2udv3kqy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" alt="Spotify recently played" />
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=22rf7l7l6gjvybm4x2udv3kqy&count=2" 
+      alt="Spotify recently played"
+    />
   </a>
-  <img src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif" height="160" style="margin-left: 10px;" />
+  <img 
+    src="https://media1.tenor.com/m/wrqX4708EwMAAAAd/ds1-dark-souls.gif" 
+    height="160" 
+    style="margin-left: 10px;"
+  />
 </p>
 
 <br clear="both">
